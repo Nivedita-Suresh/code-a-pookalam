@@ -23,9 +23,11 @@ A vibrant and symmetric Pokalam (floral rangoli) design generated using Pythonâ€
 
 | Stage       | Screenshot     |
 |-------------|----------------|
-| Initial sketch | ![WIP Stage 1](wip/wip1.png) |
-| Mid-design layering | ![WIP Stage 2](wip/wip2.png) |
-| Final touches | ![WIP Stage 3](wip/wip3.png) |
+| Initial sketch | ![WIP Stage 1](<img width="65.2" height="63.8" alt="image" src="https://github.com/user-attachments/assets/bb673f8c-c7f9-4dd8-9d94-9b2a367d3be8" />
+) |
+| Mid-design layering | ![WIP Stage 2](<img width="68.8" height="55.4" alt="image" src="https://github.com/user-attachments/assets/f41ff32e-1e6a-4717-b31c-130826062500" />
+) |
+| Final touches | ![WIP Stage 3](<img width="93.6" height="79.0" alt="image" src="https://github.com/user-attachments/assets/d30a548c-adcc-403e-8d41-2b4dbcc267c2" />) |
 
 ---
 
