@@ -11,7 +11,7 @@ A vibrant and symmetric Pokalam (floral rangoli) design generated using Pythonâ€
 
 *(Hereâ€™s what the completed design looks like:)*
 
-<img width="110.7" height="94.4" alt="image" src="https://github.com/user-attachments/assets/71c96a18-ad3c-4d93-86c4-b35d0cd61964" />
+<img width="553.5" height="472" alt="image" src="https://github.com/user-attachments/assets/71c96a18-ad3c-4d93-86c4-b35d0cd61964" />
 
 
 ---
