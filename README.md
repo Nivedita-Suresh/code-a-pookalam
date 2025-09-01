@@ -11,23 +11,20 @@ A vibrant and symmetric Pokalam (floral rangoli) design generated using Pythonâ€
 
 *(Hereâ€™s what the completed design looks like:)*
 
-<img width="1107" height="944" alt="image" src="https://github.com/user-attachments/assets/71c96a18-ad3c-4d93-86c4-b35d0cd61964" />
+<img width="110.7" height="94.4" alt="image" src="https://github.com/user-attachments/assets/71c96a18-ad3c-4d93-86c4-b35d0cd61964" />
 
 
 ---
 
 ##  Work In Progress
 
-<img width="936" height="790" alt="image" src="https://github.com/user-attachments/assets/d30a548c-adcc-403e-8d41-2b4dbcc267c2" />
 
 
 | Stage       | Screenshot     |
 |-------------|----------------|
-| Initial sketch | ![WIP Stage 1](<img width="65.2" height="63.8" alt="image" src="https://github.com/user-attachments/assets/bb673f8c-c7f9-4dd8-9d94-9b2a367d3be8" />
-) |
-| Mid-design layering | ![WIP Stage 2](<img width="68.8" height="55.4" alt="image" src="https://github.com/user-attachments/assets/f41ff32e-1e6a-4717-b31c-130826062500" />
-) |
-| Final touches | ![WIP Stage 3](<img width="93.6" height="79.0" alt="image" src="https://github.com/user-attachments/assets/d30a548c-adcc-403e-8d41-2b4dbcc267c2" />) |
+| Initial sketch | <img width="65.2" height="63.8" alt="image" src="https://github.com/user-attachments/assets/bb673f8c-c7f9-4dd8-9d94-9b2a367d3be8" />|
+| Mid-design layering |<img width="68.8" height="55.4" alt="image" src="https://github.com/user-attachments/assets/f41ff32e-1e6a-4717-b31c-130826062500" />|
+| Final touches |<img width="93.6" height="79.0" alt="image" src="https://github.com/user-attachments/assets/d30a548c-adcc-403e-8d41-2b4dbcc267c2" /> |
 
 ---
 
